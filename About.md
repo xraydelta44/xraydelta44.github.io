@@ -1,2 +1,5 @@
 # xraydelta44.github.io
-My Jekyll Blogsite
+About
+
+* Hi. I'm Chris.
+I'm from Bellingham, Washington. The northwest of the Northwest.
